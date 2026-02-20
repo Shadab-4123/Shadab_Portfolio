@@ -4,7 +4,7 @@ const socials = [
   {
     name: 'LinkedIn',
     handle: 'shadab-raza',
-    url: 'https://linkedin.com/in/shadab-raza',
+    url: 'https://www.linkedin.com/in/shadab-raza-8904a6250',
     description: 'Professional network & career updates',
     icon: (
       <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
@@ -32,7 +32,7 @@ const socials = [
   {
     name: 'LeetCode',
     handle: 'shadab-raza',
-    url: 'https://leetcode.com/shadab-raza',
+    url: 'https://leetcode.com/u/Shadab4123/',
     description: 'DSA practice & competitive coding',
     icon: (
       <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
