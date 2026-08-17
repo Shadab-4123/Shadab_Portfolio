@@ -52,7 +52,7 @@ export default function Education() {
                   <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between gap-3 mb-6">
                     <div>
                       <h3 className="text-2xl font-bold text-slate-900 dark:text-white mb-1">
-                        Sitare University
+                        Shri Ramswaroop Memorial University
                       </h3>
                       <p className="text-blue-600 dark:text-blue-400 font-semibold text-base">
                         Bachelor of Technology — Computer Science

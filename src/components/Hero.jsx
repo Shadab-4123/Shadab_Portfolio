@@ -50,9 +50,9 @@ export default function Hero() {
 
         {/* Summary text */}
         <p className="text-slate-600 dark:text-slate-400 text-base sm:text-lg leading-relaxed max-w-2xl mx-auto mb-10">
-          Passionate Software Engineer with expertise in building high-performance, scalable web applications.
-          Experienced with React, TypeScript, Python, and real-time systems — delivering enterprise-grade
-          features used by thousands of users.
+          Passionate Software Engineer with expertise in building high-performance, scalable web applications
+          and AI/ML solutions. Experienced with React, TypeScript, Python, FastAPI, and modern ML frameworks —
+          delivering enterprise-grade features with cutting-edge AI capabilities.
         </p>
 
         {/* CTA Buttons */}
@@ -84,9 +84,9 @@ export default function Hero() {
         {/* Stats */}
         <div className="grid grid-cols-3 gap-4 max-w-sm mx-auto">
           {[
-            { value: '7+', label: 'Features Shipped' },
+            { value: '3', label: 'Major Projects' },
             { value: '3+', label: 'Years Coding' },
-            { value: '2+', label: 'Projects Built' },
+            { value: '3', label: 'Internships' },
           ].map((stat) => (
             <div key={stat.label} className="glass-card rounded-xl p-4">
               <div className="text-2xl font-bold text-blue-600 dark:text-blue-400">{stat.value}</div>
