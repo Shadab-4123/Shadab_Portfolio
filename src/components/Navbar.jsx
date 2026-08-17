@@ -102,7 +102,7 @@ export default function Navbar() {
 
             <a
               href="/Shadab Raza.pdf"
-              download="Shadab_Raza_Resume.pdf"
+              download="Shadab Raza.pdf"
               className="ml-1 flex items-center gap-1.5 px-3 py-2 text-sm font-semibold rounded-lg border border-slate-300 dark:border-slate-600 hover:border-blue-400 dark:hover:border-blue-400 text-slate-600 dark:text-slate-300 hover:text-blue-600 dark:hover:text-white hover:bg-blue-50 dark:hover:bg-blue-500/10 transition-all duration-200"
             >
               <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">

@@ -70,8 +70,8 @@ export default function Hero() {
             Get In Touch
           </a>
           <a
-            href="/Shadab_Raza_Resume.pdf"
-            download="Shadab_Raza_Resume.pdf"
+            href="/Shadab Raza.pdf"
+            download="Shadab Raza.pdf"
             className="flex items-center justify-center gap-2 px-8 py-3 rounded-xl border border-slate-300 dark:border-slate-600 hover:border-blue-400 dark:hover:border-blue-400 text-slate-700 dark:text-slate-300 hover:text-blue-600 dark:hover:text-white font-semibold transition-all duration-200 hover:bg-blue-50 dark:hover:bg-blue-500/10"
           >
             <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
